@@ -1,6 +1,5 @@
-# CourtCounter
-------------------
-------------------
+ Court Counter
+ ===============
 
 Basketball Score counter
 
